@@ -14,6 +14,7 @@ En este proyecto se busca la realización de un cuadro de control, desde suu pro
 - Un informe en power point.
 
 **Programación**:
+
 Se adjunta una carpeta comprimida en __.zip__ tener en cuenta:
 - TIA PORTAL V20.
 - PLC 1214 AC/DC/RLY.
